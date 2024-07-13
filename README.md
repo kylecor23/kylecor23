@@ -21,11 +21,12 @@
 </div>
 👨‍💻: About Me :
 
-I am a curent student at get coding!
+I am a curent inspiering developer!
 
--  currently learning front & back end development
--  on my spear time i like to learn about new tecnolage that is up and comeing 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+-  I'm currently learning front & back end development
+-  In my spare time i like to learn about new technology. 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kyle%20Corcoran-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-corcoran-897608233/)
+
 
 ---
 
