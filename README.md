@@ -21,10 +21,10 @@
 </div>
 👨‍💻: About Me :
 
-I am a curent inspiering developer!
+I am an aspiring developer!
 
--  I'm currently learning front & back end development
--  In my spare time i like to learn about new technology. 
+-  I'm continuing my learning of front & back end development
+-  I use my spare time to learn new technologies. 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kyle%20Corcoran-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-corcoran-897608233/)
 
 
