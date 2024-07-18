@@ -21,11 +21,9 @@
 </div>
 👨‍💻: About Me :
 
-I am an aspiring developer!
+I'm a web developer based in St. John's, Newfoundland.!
 
--  I'm continuing my learning of front & back end development
--  I use my spare time to learn new technologies. 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kyle%20Corcoran-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-corcoran-897608233/)
+I love learning new front- and back-end technologies, and I'm hoping to work full-time in the web development space. If you're hiring, please reach out at: [![Linkedin Badge](https://img.shields.io/badge/-Kyle%20Corcoran-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-corcoran-897608233/)
 
 
 ---
