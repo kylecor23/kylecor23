@@ -21,7 +21,7 @@
 </div>
 👨‍💻: About Me :
 
-I'm a web developer based in St. John's, Newfoundland.!
+I'm a web developer based in St. John's, Newfoundland.
 
 I love learning new front- and back-end technologies, and I'm hoping to work full-time in the web development space. If you're hiring, please reach out at: [![Linkedin Badge](https://img.shields.io/badge/-Kyle%20Corcoran-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-corcoran-897608233/)
 
